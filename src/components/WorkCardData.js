@@ -9,7 +9,7 @@ const ProjectCardData=[
     {
         imgsrc: "https://images04.nicepage.com/feature/461183/website-blog.jpg",
         title: "Blog Website",
-        text : "Welcome to Blog Creation Website where all users can read the blogs but only registered user can create the blog and delete or edit their own blogs.",
+        text : "Welcome to Blog Creation Website build on MERN(MongoDB, Express, React, Node) where all users can read the blogs but only registered user can create the blog and delete or edit their own blogs.",
         view: "https://blog-website-olive.vercel.app/",
         source: "https://github.com/VrushaliDipakPatil"
     },
