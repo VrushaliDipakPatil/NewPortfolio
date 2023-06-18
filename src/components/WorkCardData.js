@@ -1,3 +1,5 @@
+import WomenFashion from "../assets/womenfashion.jpg"
+
 const ProjectCardData=[
     {
         imgsrc: "https://www.shutterstock.com/image-illustration/graphical-digital-world-news-background-260nw-459780472.jpg",
@@ -14,7 +16,7 @@ const ProjectCardData=[
         source: "https://github.com/VrushaliDipakPatil"
     },
     {
-        imgsrc: "blob:https://vercel.com/c3b0b38c-a550-4c17-a624-e169169e63cb",
+        imgsrc: WomenFashion,
         title: "Women Fashion",
         text : "Welcome to the online shopping store for womens build on MERN (MongoDB, Express, React, Node) , styled components used for the CSS and stripe is used for payment.",
         view: "https://mern-e-commerce-fs2hemcuo-vrushalidipakpatil.vercel.app/",
