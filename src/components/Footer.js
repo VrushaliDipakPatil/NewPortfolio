@@ -1,6 +1,7 @@
 import "./FooterStyle.css";
 // @ts-ignore
 import { FaHome , FaPhone, FaMailBulk, FaLinkedin} from "react-icons/fa"
+import { GoMarkGithub } from 'react-icons/go';
 import React from 'react'
 
 const Footer = () => {
@@ -18,8 +19,8 @@ const Footer = () => {
                             style={{ color: "#fff", marginRight: "2rem" }}
                         />
                         <div>
-                        <p>Naginabag, Sister Colony, chandrapur</p>
-                        <p>India</p>
+                        <p>Pune, India</p>
+                        
                     </div>
                     </div>
                     
@@ -35,7 +36,7 @@ const Footer = () => {
                     <h4>
                     <FaMailBulk size={20}
                             style={{ color: "#fff", marginRight: "2rem" }}
-                        /> vrushalip910@gmail.com
+                        /> vrushalidipakpatil910@gmail.com
                     </h4>   
                 </div>
                 </div>
@@ -45,9 +46,9 @@ const Footer = () => {
 Detail-oriented, organized and meticulous employee.</p>
 <div className="social" 
 role="link"
-onClick={() => openInNewTab('https://www.linkedin.com/in/vrushali-patil-153552170/')}
+onClick={() => openInNewTab('https://github.com/VrushaliDipakPatil')}
 >
-<FaLinkedin size={30}
+<GoMarkGithub  size={30}
                             style={{ color: "#fff", marginRight: "2rem" }}
                         />
 </div>
