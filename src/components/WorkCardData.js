@@ -2,13 +2,6 @@ import WomenFashion from "../assets/womenfashion.jpg"
 
 const ProjectCardData=[
     {
-        imgsrc: "https://www.shutterstock.com/image-illustration/graphical-digital-world-news-background-260nw-459780472.jpg",
-        title: "Weather Update",
-        text : "Welcome to weather forecast app, your go-to source for accurate and up-to-date weather information. With this app, you can access real-time weather data for your location and any location worldwide.",
-        view: "https://weather-project-ii7q8vhiw-vrushalidipakpatil.vercel.app/",
-        source: "https://github.com/VrushaliDipakPatil/WeatherProject"
-    },
-    {
         imgsrc: "https://images04.nicepage.com/feature/461183/website-blog.jpg",
         title: "Blog Website",
         text : "Welcome to Blog Creation Website build on MERN (MongoDB, Express, React, Node) where all users can read the blogs but only registered user can create the blog and delete or edit their own blogs.",
@@ -28,6 +21,13 @@ const ProjectCardData=[
         text : "Online shopping is a form of electronic commerce which allows consumers to directly buy goods or services from a seller over the Internet using a web browser or a mobile app.",
         view: "https://e-commerce-react-h5kz7f4v1-vrushalidipakpatil.vercel.app/",
         source: "https://github.com/VrushaliDipakPatil/e-commerce"
+    },
+    {
+        imgsrc: "https://www.shutterstock.com/image-illustration/graphical-digital-world-news-background-260nw-459780472.jpg",
+        title: "Weather Update",
+        text : "Welcome to weather forecast app, your go-to source for accurate and up-to-date weather information. With this app, you can access real-time weather data for your location and any location worldwide.",
+        view: "https://weather-project-ii7q8vhiw-vrushalidipakpatil.vercel.app/",
+        source: "https://github.com/VrushaliDipakPatil/WeatherProject"
     },
 ];
 

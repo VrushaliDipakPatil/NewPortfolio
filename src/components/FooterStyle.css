@@ -33,6 +33,10 @@
     padding: 1rem;
 }
 
+.social-icons{
+    display: flex;
+}
+
 .social{
     margin-top: 1rem;
     cursor: pointer;
